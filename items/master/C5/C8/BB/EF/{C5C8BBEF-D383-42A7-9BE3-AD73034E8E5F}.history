@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5C8BBEF-D383-42A7-9BE3-AD73034E8E5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:52.1975576Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Twitter Button Parameters/Social",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A705D262-5714-4880-9962-051E25F1416D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:17.5741454Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedules",
+    "itemPath": "/sitecore/system/Tasks/Schedules",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

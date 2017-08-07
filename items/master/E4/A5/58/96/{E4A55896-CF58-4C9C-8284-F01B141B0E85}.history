@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4A55896-CF58-4C9C-8284-F01B141B0E85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:18.0866065Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxy type",
+    "itemPath": "/sitecore/templates/System/Proxy/Data/Proxy type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

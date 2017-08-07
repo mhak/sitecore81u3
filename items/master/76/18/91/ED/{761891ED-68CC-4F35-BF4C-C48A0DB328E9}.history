@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761891ED-68CC-4F35-BF4C-C48A0DB328E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:12.7693024Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Map Group",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Commands/Site Map Group",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A14F1B0C-4384-49EC-8790-28A440F3670C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:56:05.0522928Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Semantics",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tagging/Tagging/__Semantics",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

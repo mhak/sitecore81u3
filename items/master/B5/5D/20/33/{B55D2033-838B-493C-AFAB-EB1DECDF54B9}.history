@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B55D2033-838B-493C-AFAB-EB1DECDF54B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:53.3133260Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Follow Hit",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Follow Hit",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

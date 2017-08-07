@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40AC2D94-D9D5-4907-8B3A-346A9DC8BD35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:55.7314643Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FXM",
+    "itemPath": "/sitecore/system/Marketing Control Panel/FXM",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

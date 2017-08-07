@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F4412CC-609C-4D3C-AF8C-D5C849202916}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:39.4123945Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parent ID",
+    "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/Parent ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

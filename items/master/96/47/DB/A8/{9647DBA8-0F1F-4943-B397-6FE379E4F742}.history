@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9647DBA8-0F1F-4943-B397-6FE379E4F742}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.0212521Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-facebook-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-facebook-post",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

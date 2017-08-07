@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A15EC062-0909-4C67-B09F-D7B8AF30EC39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:23.3770455Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Panama",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Panama",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

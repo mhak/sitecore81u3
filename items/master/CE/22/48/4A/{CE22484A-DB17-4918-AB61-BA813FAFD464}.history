@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE22484A-DB17-4918-AB61-BA813FAFD464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:26.5592275Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form submitted",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

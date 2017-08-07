@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42540780-99A0-4144-BC9A-5D673FC63B6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:12.4002813Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoalMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

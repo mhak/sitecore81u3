@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4274852D-9141-421C-A2A5-8EDDB4B07B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.2542654Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-linkedin-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin-search",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

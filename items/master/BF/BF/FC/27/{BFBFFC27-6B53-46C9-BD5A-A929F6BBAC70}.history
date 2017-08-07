@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFBFFC27-6B53-46C9-BD5A-A929F6BBAC70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:50.6920396Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Managing editor",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Managing editor",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

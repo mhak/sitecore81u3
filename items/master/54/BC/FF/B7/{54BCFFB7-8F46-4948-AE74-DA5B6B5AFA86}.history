@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54BCFFB7-8F46-4948-AE74-DA5B6B5AFA86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:26.1576364Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alias",
+    "itemPath": "/sitecore/templates/System/Alias",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5A23083-C229-47EC-B1BC-445F8BBB55AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:51.1272009Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google Plus",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

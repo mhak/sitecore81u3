@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43841F37-6D80-428C-9C96-974C8F8DE11A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:22.0789713Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Madagascar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Madagascar",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7CC88F55-8466-484B-A224-EF4984DCAEDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:13.6839229Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Integer",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Integer",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

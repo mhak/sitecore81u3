@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05B547A2-C736-4351-8A03-AA74AF67B6C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:44.4952534Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Supports Touch Screen",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Supports Touch Screen",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

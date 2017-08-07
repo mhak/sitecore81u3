@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBB88A6F-24C2-4D9E-9C26-F6D27E3F7308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.1902617Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-linkedin",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

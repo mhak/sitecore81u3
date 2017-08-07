@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F0A5388-0467-4A45-95C0-729B1D6DB9FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:56:12.2457043Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Control",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/Control",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

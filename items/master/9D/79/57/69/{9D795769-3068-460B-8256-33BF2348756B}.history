@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D795769-3068-460B-8256-33BF2348756B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:18.8237851Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Burkina Faso",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burkina Faso",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

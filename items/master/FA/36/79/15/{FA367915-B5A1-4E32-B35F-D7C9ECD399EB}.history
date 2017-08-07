@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA367915-B5A1-4E32-B35F-D7C9ECD399EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:56:18.1100397Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next state",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Next state",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

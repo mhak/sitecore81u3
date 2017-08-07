@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4D11BFB-3337-4712-AFD7-9D6BC8B325AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:06.7505263Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Rule visibility",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

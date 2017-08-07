@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB1DDA9C-8DB1-4E6F-A9B3-12622FE82C74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:02.6008572Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer/Social Marketer",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F80D5BB0-A9EB-4BE0-850A-EE135B826D2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:45.3082999Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query String",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection/Query String",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

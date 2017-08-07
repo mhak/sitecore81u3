@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CB97A9F-CAFB-42A0-8BE1-89AB9AE32BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:55.5944564Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

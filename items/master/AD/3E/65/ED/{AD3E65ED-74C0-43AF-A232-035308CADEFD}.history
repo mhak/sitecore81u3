@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD3E65ED-74C0-43AF-A232-035308CADEFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:50.5810333Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Data/Link",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

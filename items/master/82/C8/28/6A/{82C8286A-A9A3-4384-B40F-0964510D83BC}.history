@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82C8286A-A9A3-4384-B40F-0964510D83BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:14.3163909Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/OutcomeMap/Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

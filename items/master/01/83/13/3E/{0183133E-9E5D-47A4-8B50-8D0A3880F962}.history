@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0183133E-9E5D-47A4-8B50-8D0A3880F962}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:26.8266746Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menus",
+    "itemPath": "/sitecore/templates/System/Menus",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

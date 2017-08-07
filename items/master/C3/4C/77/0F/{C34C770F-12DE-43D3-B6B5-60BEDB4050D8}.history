@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34C770F-12DE-43D3-B6B5-60BEDB4050D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:53.5356341Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Description",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message/Data/Link Description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

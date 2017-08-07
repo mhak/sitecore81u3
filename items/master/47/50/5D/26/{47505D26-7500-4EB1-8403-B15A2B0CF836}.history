@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47505D26-7500-4EB1-8403-B15A2B0CF836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:20.2978694Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gabon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gabon",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

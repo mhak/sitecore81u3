@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{406365C4-ACD4-49AB-A070-C1353B0331CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:22.7580101Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Namibia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Namibia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

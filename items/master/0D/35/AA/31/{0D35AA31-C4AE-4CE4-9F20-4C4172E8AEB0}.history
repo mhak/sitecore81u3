@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D35AA31-C4AE-4CE4-9F20-4C4172E8AEB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:49.2239557Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Geo Country",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Location/Geo Country",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

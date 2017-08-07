@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{456C87EF-DEF3-4024-8A04-4B2F79084221}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:52.9846026Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message/Data/Comments",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

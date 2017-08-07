@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E6DEB80-CCEB-4881-AADE-7CE85DC0C633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.8673005Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-usage",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-usage",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

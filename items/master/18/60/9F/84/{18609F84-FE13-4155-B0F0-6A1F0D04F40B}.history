@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18609F84-FE13-4155-B0F0-6A1F0D04F40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:25.8251855Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vietnam",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vietnam",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

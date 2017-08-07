@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C6F74D-C1E1-4020-BA0D-DABB1DF79C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:36.6658056Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagView",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/TagView",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

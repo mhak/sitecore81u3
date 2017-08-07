@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D9B2EE-B56C-4BB4-A8BD-16A92DB3CC29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.6062855Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-sales",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-sales",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

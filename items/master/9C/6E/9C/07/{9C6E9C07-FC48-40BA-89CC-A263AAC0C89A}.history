@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C6E9C07-FC48-40BA-89CC-A263AAC0C89A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:09.5641191Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ZipCode",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/ZipCode",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

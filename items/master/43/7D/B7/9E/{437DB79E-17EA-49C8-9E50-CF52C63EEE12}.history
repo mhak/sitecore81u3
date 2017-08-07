@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{437DB79E-17EA-49C8-9E50-CF52C63EEE12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:14.3089587Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Broken Links",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Broken Links",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24DFF2CF-B30A-4B75-8967-2FE3DED82271}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:09.7862682Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Focus",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

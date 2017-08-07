@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC02A5B2-F28C-4787-8A22-05333EA6C965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:56:13.4307720Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validate Button",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules/Validate Button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

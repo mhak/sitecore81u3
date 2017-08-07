@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{233D3295-BF88-45C8-88DA-BA51107FD155}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:41.6889565Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Application Folder",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account Folder/Data/Default Application Folder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

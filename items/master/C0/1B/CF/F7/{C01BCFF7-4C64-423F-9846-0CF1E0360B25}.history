@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C01BCFF7-4C64-423F-9846-0CF1E0360B25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:54:51.5440884Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Display name",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font/Data/Display name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

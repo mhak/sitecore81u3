@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98360C58-F51F-43A4-B057-9EF459C0FF10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:12.5052873Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MapGroup",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapGroup",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

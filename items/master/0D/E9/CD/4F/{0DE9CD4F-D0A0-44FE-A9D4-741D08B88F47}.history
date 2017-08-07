@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE9CD4F-D0A0-44FE-A9D4-741D08B88F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:51.5782267Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-catalogue",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

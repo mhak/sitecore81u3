@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9400691E-6518-4073-BB0D-409BFCED1558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:53:34.4076764Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add Item",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

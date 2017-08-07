@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04079C95-89FD-4200-B1B4-A618DF8113FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:52.5142803Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-pr",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-pr",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

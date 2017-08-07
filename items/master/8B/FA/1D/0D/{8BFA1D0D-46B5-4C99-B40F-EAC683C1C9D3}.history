@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BFA1D0D-46B5-4C99-B40F-EAC683C1C9D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:41.8789674Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LastRenewalDate",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/LastRenewalDate",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

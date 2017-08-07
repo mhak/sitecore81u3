@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A565E71-C128-48D8-89FB-61D4BA45E21F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:51.9542482Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-event-tradeshow",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-event-tradeshow",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

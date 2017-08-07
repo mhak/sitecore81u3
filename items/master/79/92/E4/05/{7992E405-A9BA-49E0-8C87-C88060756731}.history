@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7992E405-A9BA-49E0-8C87-C88060756731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T21:52:54.9684206Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "leopard-folder-big",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/leopard-folder-big",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

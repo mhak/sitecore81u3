@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A734AF1-CBD3-4896-8615-6374D2D5DCEE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-07T21:55:20.9547706Z",
+    "label": "Snapshot - Base snapshot",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Width",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Gallery Width",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
