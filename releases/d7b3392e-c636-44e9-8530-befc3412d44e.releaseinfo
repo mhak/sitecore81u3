@@ -3,7 +3,7 @@
   "releaseName": "QA deployment v3",
   "lastModified": "2017-08-07T22:44:22.471174Z",
   "lastDeployed": "2017-08-07T15:44:36.8236456-07:00",
-  "lastRollback": "0001-01-01T00:00:00",
+  "lastRollback": "2017-08-07T15:45:09.0724902-07:00",
   "releaseItems": [
     {
       "database": "master",
@@ -20,7 +20,7 @@
       "server": "http://sitecore81u3b",
       "items": "master:{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}?mode=Merge&autopublish=False",
       "lastDeployment": "2017-08-07T15:44:36.8236456-07:00",
-      "lastRollback": "0001-01-01T00:00:00",
+      "lastRollback": "2017-08-07T15:45:09.0724902-07:00",
       "user": "DEV\\sitecore\\admin"
     }
   ]
