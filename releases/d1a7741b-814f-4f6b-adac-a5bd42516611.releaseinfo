@@ -1,0 +1,19 @@
+{
+  "id": "d1a7741b-814f-4f6b-adac-a5bd42516611",
+  "releaseName": "QA deployment v4",
+  "lastModified": "2017-08-08T18:24:45.5272986Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
