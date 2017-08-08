@@ -2,7 +2,7 @@
   "id": "d1a7741b-814f-4f6b-adac-a5bd42516611",
   "releaseName": "QA deployment v4",
   "lastModified": "2017-08-08T18:24:45.5272986Z",
-  "lastDeployed": "0001-01-01T00:00:00",
+  "lastDeployed": "2017-08-08T11:26:02.8727225-07:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
     {
@@ -15,5 +15,13 @@
       "autoPublish": false
     }
   ],
-  "serverDeployments": null
+  "serverDeployments": [
+    {
+      "server": "http://sitecore81u3b",
+      "items": "master:{070F60FB-E52C-45B3-A832-8941772C52BF}?mode=Merge&autopublish=False|master:{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}?mode=Merge&autopublish=False",
+      "lastDeployment": "2017-08-08T11:26:02.8727225-07:00",
+      "lastRollback": "0001-01-01T00:00:00",
+      "user": "DEV\\sitecore\\admin"
+    }
+  ]
 }
