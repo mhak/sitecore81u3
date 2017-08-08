@@ -8,5 +8,15 @@
     "created": "2017-08-07T21:52:43.2997532Z",
     "lastDeployed": "0001-01-01T00:00:00",
     "lastRollback": "0001-01-01T00:00:00"
+  },
+  {
+    "id": "e1ff321d-e7b4-4756-a320-db57f2d3abaa",
+    "database": "master",
+    "isFull": false,
+    "snapshotName": "home item",
+    "snapshotRoot": "/sitecore/content/Home",
+    "created": "2017-08-08T18:12:40.1368087Z",
+    "lastDeployed": "0001-01-01T00:00:00",
+    "lastRollback": "0001-01-01T00:00:00"
   }
 ]
